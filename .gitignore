@@ -2,3 +2,15 @@ gradle/
 gradlew
 gradlew.bat
 .gradle
+*.iws
+build/
+*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml*.ipr
+*.iml
+
